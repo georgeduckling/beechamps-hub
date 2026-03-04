@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*, *::before, *::after { box-sizing: border-box; }
+body { font-family: 'DM Sans', sans-serif; background-color: #FDF9F3; color: #0D1B2E; margin: 0; }
+h1, h2, h3, h4, h5, h6 { font-family: 'Syne', sans-serif; }
